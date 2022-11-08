@@ -9,6 +9,7 @@ HOST-SUFFIX,youtu.be,YouTube
 HOST,youtubei.googleapis.com,YouTube
 HOST-SUFFIX,ytimg.com,YouTube
 
+
 # > Telegram
 HOST-KEYWORD,telegram,Outside
 HOST-SUFFIX,t.me,Outside
@@ -61,5 +62,6 @@ IP-CIDR,74.119.76.0/22,Outside
 # > Google
 IP-CIDR,173.194.0.0/16,Outside
 IP-CIDR,74.125.0.0/16,Outside
+HOST-SUFFIX,gmail.com,Outside
 
 
