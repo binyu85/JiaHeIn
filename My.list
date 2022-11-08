@@ -65,3 +65,15 @@ IP-CIDR,74.125.0.0/16,Outside
 HOST-SUFFIX,gmail.com,Outside
 
 
+# > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+HOST-KEYWORD,appledaily,Outside
+HOST-KEYWORD,beetalk,Outside
+HOST-KEYWORD,blogspot,Outside
+HOST-KEYWORD,dropbox,Outside
+HOST-KEYWORD,facebook,Outside
+HOST-KEYWORD,github,Outside
+HOST-KEYWORD,instagram,Outside
+HOST-KEYWORD,twitter,Outside
+HOST-KEYWORD,whatsapp,Outside
+HOST-KEYWORD,google,Outside
+
